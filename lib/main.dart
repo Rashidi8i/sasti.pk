@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             title: 'sasti.pk',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
-              primarySwatch: Colors.blue,
+              primarySwatch: Colors.green,
             ),
             home: const SplashView(),
           );
